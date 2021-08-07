@@ -16,5 +16,7 @@
 + DWMBlocks
 + Swallow patch for DWM
 + Sxiv
++ XBindkeys
++ sxhkd [Simple X Hotkey Daemon]
 + VIM
 + Jitsi
