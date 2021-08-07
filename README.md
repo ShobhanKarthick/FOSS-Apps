@@ -3,3 +3,18 @@
 ### [Android Apps](https://github.com/ShobhanKarthick/FOSS-Apps/blob/master/Android.md)
 
 ### [Linux Apps](https://github.com/ShobhanKarthick/FOSS-Apps/blob/master/Linux.md)
+
+### Other useful apps
+
++ Pandoc 
++ Groff
++ Beamer (LaTeX)
++ entr
++ Calcurse
++ muPDF
++ DWM
++ DWMBlocks
++ Swallow patch for DWM
++ Sxiv
++ VIM
++ Jitsi
