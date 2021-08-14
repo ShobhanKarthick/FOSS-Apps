@@ -12,6 +12,7 @@
 + entr
 + Calcurse
 + muPDF
++ Zathura 
 + DWM
 + DWMBlocks
 + Swallow patch for DWM
