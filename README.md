@@ -20,3 +20,4 @@
 + sxhkd [Simple X Hotkey Daemon]
 + VIM
 + Jitsi
++ Graphviz
