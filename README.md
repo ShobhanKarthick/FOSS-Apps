@@ -4,7 +4,7 @@
 
 ### [Linux Apps](https://github.com/ShobhanKarthick/FOSS-Apps/blob/master/Linux.md)
 
-### Other useful apps
+### Other useful tools
 
 + Pandoc 
 + Groff
