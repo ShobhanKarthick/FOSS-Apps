@@ -30,6 +30,7 @@ Android
 - Element (Matrix Protocol)
 - Signal 
 - Telegram
+- Termux
 - Tracker Control
 
 # Useful Resources
